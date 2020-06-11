@@ -1,6 +1,6 @@
 # IP-Week-6-Collins
 
-# Core_Week_7_Independent_Project
+# Core_Week_6_Independent_Project
 
 ## Supervised-Learning
 
